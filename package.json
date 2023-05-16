@@ -1,0 +1,15 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "Node BaseGround",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Shine Thu Lwin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
